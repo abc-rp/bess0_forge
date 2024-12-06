@@ -1,0 +1,1 @@
+.git/annex/objects/20/48/WORM-s0-m1733495173--hello2.txt/WORM-s0-m1733495173--hello2.txt
