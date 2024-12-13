@@ -1,1 +1,1 @@
-81a6dd22-6d22-4b7a-aa9a-1e9bd28e9d1a autoenable=true bucket=bess0-lobby chunk=100MiB datacenter=default encryption=none host=172.16.10.5 name=bess0-lobby port=80 requeststyle=path storageclass=STANDARD type=S3 timestamp=1734094223.6772935s
+81a6dd22-6d22-4b7a-aa9a-1e9bd28e9d1a autoenable=true bucket=bess0-lobby chunk=100MiB datacenter=default encryption=none host=172.16.10.5 name=bess0-lobby partsize=0 port=80 requeststyle=path storageclass=STANDARD type=S3 timestamp=1734099121.762688511s
