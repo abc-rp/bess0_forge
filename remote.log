@@ -1,3 +1,4 @@
 04d67b92-ff7d-497b-b7ab-4fdb93683050 autoenable=true bucket=bess0-lobbyy datacenter=default encryption=none host=172.16.10.5 name=bess0-lobbyy partsize=20GiB port=80 requeststyle=path storageclass=STANDARD type=S3 timestamp=1734344446.552749184s
 81a6dd22-6d22-4b7a-aa9a-1e9bd28e9d1a autoenable=true bucket=bess0-lobby chunk=100MiB datacenter=default encryption=none host=172.16.10.5 name=bess0-lobby partsize=20GiB port=80 requeststyle=path storageclass=STANDARD type=S3 timestamp=1734344435.698650444s
+afb3af9c-c4eb-4001-a608-3b4d0d0fdb8b autoenable=true bucket=nw-lobby datacenter=default encryption=none host=192.168.224.14 name=nw-lobby port=9000 requeststyle=path storageclass=STANDARD type=S3 timestamp=1734362292.09577251s
 c79a34a4-1c21-410d-b6a6-3995a296271f autoenable=true bucket=bess0-lobbi datacenter=US encryption=none host=172.16.10.5 name=bess0-lobbi partsize=5GiB port=80 requeststyle=path storageclass=STANDARD type=S3 timestamp=1734099740.324800455s
